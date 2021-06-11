@@ -8,11 +8,11 @@ In this notebook, I trained a convolutional neural network to classify images of
 
 Tasks:
 
-Understanding American Sign Language (ASL)
-Visualize the training data
-Data Preprocessing
-Creating the model
-Compile the model
-Training the model
-Testing the model
-Visualize mistakes
+1. Understanding American Sign Language (ASL)
+2. Visualize the training data
+3. Data Preprocessing
+4. Creating the model
+5. Compile the model
+6. Training the model
+7. Testing the model
+8. Visualize mistakes
